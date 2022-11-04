@@ -20,3 +20,5 @@ It should parse the response and get the value of the /data/state_code
 
 b. GET /forecast/3hourly?postal_code={postal_code} 
 It should parse the response and get the value of the { timestamp_utc, weather} for all the data entries 
+
+File Documentation : https://github.com/marlyse057/QATechnicalTest/blob/main/API%20Automation.pdf

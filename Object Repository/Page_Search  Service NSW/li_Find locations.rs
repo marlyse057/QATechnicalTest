@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Find locations</name>
+   <tag></tag>
+   <elementGuidId>dc87c745-675e-4f07-828e-24bf5d17d9c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='global-header']/div/header/div[2]/div/nav/ul/li[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>63f2f241-4918-4440-a0a9-d31830d8458c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>NavLink__listItem-VYVwsaNaTG</value>
+      <webElementGuid>1a558498-d1d4-4268-89f9-7293bbfa18d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Find locations</value>
+      <webElementGuid>8b7986f7-32d9-4c53-88b0-9e358b8d69f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;global-header&quot;)/div[1]/header[@class=&quot;GlobalHeader-0xZ4-w1g3x&quot;]/div[@class=&quot;GlobalHeader__main-ORzg9dkzx0&quot;]/div[@class=&quot;Container-f-hqve2slU GlobalHeader__mainContainer-jduh-JKthi&quot;]/nav[@class=&quot;MainNav-AYWEJogDLj&quot;]/ul[@class=&quot;MainNav__list-peZtddYtxn&quot;]/li[@class=&quot;NavLink__listItem-VYVwsaNaTG&quot;]</value>
+      <webElementGuid>898b42ba-f15f-4d58-83c8-2d7820981619</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='global-header']/div/header/div[2]/div/nav/ul/li[4]</value>
+      <webElementGuid>e35af3f5-569b-4f92-a5c8-a4431cfcee96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Business'])[1]/following::li[1]</value>
+      <webElementGuid>319b238b-1145-4f18-a19e-56a2a060ce38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Browse services'])[1]/following::li[2]</value>
+      <webElementGuid>01381503-1fd6-4b6d-886c-ec182ff246d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[2]/preceding::li[1]</value>
+      <webElementGuid>d4c0641d-80ab-4c1d-8a97-5ea10f55da87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/ul/li[4]</value>
+      <webElementGuid>02dff0fd-7093-4e0e-9d41-7ac27bf665a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Find locations' or . = 'Find locations')]</value>
+      <webElementGuid>0f3ae623-0fd2-4abf-be2a-7d90f1a07c37</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

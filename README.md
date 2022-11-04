@@ -14,6 +14,7 @@ UI Automation
 API Automation 
 Register to get the API Token Key - https://www.weatherbit.io/account/create 
 Navigate to https://www.weatherbit.io/api/swaggerui/weather-api-v2#!/andautomatebelowAPIs 
+
 a. GET /current?lat={lat}&lon={lon} for values {lat} as 40.730610 and {lon} as -73.935242 
 It should parse the response and get the value of the /data/state_code 
 
